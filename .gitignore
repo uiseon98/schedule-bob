@@ -36,6 +36,6 @@ out/
 ### VS Code ###
 .vscode/
 
-application-dev.yml/
-.env/
-schedule-bob 개발 규칙.txt/
+application-dev.yml
+.env
+schedule-bob 개발 규칙.txt
